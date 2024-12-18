@@ -64,12 +64,7 @@ KeyBay was developed as a software prototype focusing on the core functionalitie
 ## Acknowledgments
 This project was completed as part of the CS2833 – Modular Software Development course at the University of Moratuwa. The team thanks the faculty for their guidance and support.
 
-## Contact
-For inquiries or collaborations, please contact:
-- Faculty of Engineering, University of Moratuwa
-
----
-
+--- 
 ### Appendix
 **Codebase**: The implementation includes Java classes for the GUI and logic layers. Key files are:
 - `Login.java`
